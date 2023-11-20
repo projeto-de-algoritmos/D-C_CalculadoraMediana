@@ -12,10 +12,12 @@
 <body>
   <h1>Calculadora de Mediana</h1>
 
-  <label>Insira números separados por vírgula:</label>
-  <input type="text">
+  <label for="input">Insira números separados por vírgula:</label>
+  <input type="text" id="input" placeholder="Ex: 33, 44, 55, 77, 95, 99, 22, 25, 41, 66, 88, 89">
 
-  <button>Calcular</button>
+  <button onclick="calcularMediana()">Calcular</button>
+
+  <p id="result"></p>
 
   <script src="script.js"></script>
 </body>
