@@ -11,9 +11,12 @@
 
 ## Sobre
 
-Calculadora de Medianas que utiliza o algoritmo de Mediana das Medianas para realizar o calculo.
+Calculadora de Medianas que utiliza o algoritmo de Mediana das Medianas para realizar o cálculo.
 
 ## Screenshots
+
+![Tela1](./assets/Tela1.png)
+![Tela2](./assets/Tela2.png)
 
 ## Instalação
 
@@ -32,5 +35,6 @@ Após clonar o repositório localmente, abrir o arquivo index.html no navegador.
 
 ## Apresentação
 
+[Calculadora de Mediana - Dividir e Conquistar](./apresentação/Calculadora%20de%20Mediana.zip)
 
 
