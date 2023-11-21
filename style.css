@@ -1,6 +1,9 @@
 body {
   font-family: "Roboto", sans-serif;
   text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: #fdfdfd;
 }
 
 h1 {
@@ -12,6 +15,7 @@ h1 {
 
 label {
   display: block;
+  font-size: 18px;
   margin-top: 10px;
   margin-bottom: 8px;
 }
@@ -24,7 +28,16 @@ input {
 
 button {
   padding: 8.5px;
+  background-color: rgb(209, 111, 180);
+  color: white;
   border: none;
   border-radius: 3px;
   cursor: pointer;
+}
+
+#result {
+  margin-top: 2em;
+  font-weight: bold;
+  font-size: 50px;
+  color: #333;
 }
